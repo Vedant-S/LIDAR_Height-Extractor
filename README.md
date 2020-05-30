@@ -16,7 +16,7 @@ ________________________________________________________________________________
 10. CSV Extraction.
 11. SHP Extraction.
 
-Datasets ad visualizations cannot be displayed as they were proprietary.
+Datasets and visualizations cannot be displayed as they were proprietary.
 ____________________________________________________________________________________________________________________________________
 ### Author:
 ----------------------------------
