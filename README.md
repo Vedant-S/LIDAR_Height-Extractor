@@ -2,7 +2,7 @@
 ____________________________________________________________________________________________________________________________________
 Implementation of an algorithm using Python to remotely extract building heights by combining LIDAR (Light Detection and Ranging) datasets and building shapefiles.
 ____________________________________________________________________________________________________________________________________
-## `*Step Followed:*`
+## Steps Followed:
 ____________________________________________________________________________________________________________________________________
 1. Read Las.
 2. Converting LAS file To Pandas Dataframe.
